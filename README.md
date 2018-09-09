@@ -1,6 +1,7 @@
 Ansible Openstack modules for create Snapshot and download Image
 ---------------------------------------------------------------
 
+
 These modules are not presents in official ansible openstack cloud modules
 
 https://docs.ansible.com/ansible/2.6/modules/list_of_cloud_modules.html
