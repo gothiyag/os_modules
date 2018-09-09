@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
-# Copyright (c) 2017 Nokia.
-# Copyright (c) 2017, Gogs <gogulakrishnan.thiyagarajan@nokia.com>
+# Copyright (c) 2017, Gogs <gogs.ethics@gmail.com>
 #TODO(mordred): we need to support "location"(v1) and "locations"(v2)
 
 ANSIBLE_METADATA = {'metadata_version': '1.0',
