@@ -43,8 +43,8 @@ os_image_download
     - name: download image from glance
       os_image_download:
         auth: "{{ os_auth }}"
-        image_name: "{{ volume_name }}_QCOW2"
-        output_file: "/home/jenkins/{{ volume_name }}_QCOW2.qcow2"
+        image_name: "temp_QCOW2"
+        output_file: "/tmp/temp_QCOW2.qcow2"
         cacert: "{{ lookup('env', 'OS_CACERT') }}"
       register: download
 
